@@ -19,4 +19,4 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 - **λ (lambda)**: valor esperado da distribuição de Poisson para o progresso do atacante  
 - A fórmula calcula a chance de o atacante alcançar ou ultrapassar a cadeia honesta em algum ponto após `z` blocos de vantagem da rede honesta.
 
-![Texto alternativo da imagem](results.jpg)
+![Texto alternativo da imagem](results.png)
