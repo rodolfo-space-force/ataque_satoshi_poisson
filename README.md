@@ -22,3 +22,5 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 ## Ao analisarmos alguns resultados, podemos observar que a probabilidade diminui exponencialmente com o aumento de z.
 
 ![Texto alternativo da imagem](results.png)
+
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
