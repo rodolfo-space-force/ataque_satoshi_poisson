@@ -24,3 +24,11 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 ![Texto alternativo da imagem](results.png)
 
 You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
+
