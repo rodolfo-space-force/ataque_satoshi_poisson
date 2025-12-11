@@ -20,4 +20,5 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 - A fórmula calcula a chance de o atacante alcançar ou ultrapassar a cadeia honesta em algum ponto após `z` blocos de vantagem da rede honesta.
   
 # Ao analisarmos alguns resultados, podemos observar que a probabilidade diminui exponencialmente com o aumento de z.
+
 ![Texto alternativo da imagem](results.png)
