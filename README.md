@@ -20,7 +20,7 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 - A fórmula calcula a chance de o atacante alcançar ou ultrapassar a cadeia honesta em algum ponto após `z` blocos de vantagem da rede honesta.
 - Na imagem, o valor q = 0.1 refere-se à probabilidade do atacante encontrar o próximo bloco da cadeia de blocos (blockchain).
 - Esse número, 0.1 (ou 10%), significa que o atacante tem uma chance de 10% de sucesso a cada tentativa de encontrar um bloco antes da rede honesta.
-- Portanto, q = 0.1 indica que o atacante possui 10% do poder de mineração da rede, enquanto a rede honesta (representada por p) tem os outros 90% (ou seja, p = 1 - q = 0.9).
+- Portanto, q = 0.1 indica que o atacante possui 10% do poder de mineração da rede (hashrate), enquanto a rede honesta (representada por p) tem os outros 90% (ou seja, p = 1 - q = 0.9).
   
 ## Ao analisarmos alguns resultados, podemos observar que a probabilidade diminui exponencialmente com o aumento de z.
 
