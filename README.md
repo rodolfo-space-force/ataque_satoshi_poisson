@@ -1,4 +1,8 @@
 ## ataque_satoshi_poisson
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+
+
 Calcular a probabilidade de sucesso de um atacante em reverter transações em uma blockchain, conforme paper de Satoshi Nakamoto.
 
 ##  Attacker Success Probability in Blockchain (Gambler’s Ruin Model)
