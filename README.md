@@ -18,6 +18,8 @@ Nele, o atacante tenta construir uma cadeia de blocos alternativa e inválida ma
 - **z**: número de blocos de confirmação após a transação original  
 - **λ (lambda)**: valor esperado da distribuição de Poisson para o progresso do atacante  
 - A fórmula calcula a chance de o atacante alcançar ou ultrapassar a cadeia honesta em algum ponto após `z` blocos de vantagem da rede honesta.
+- Na imagem, o valor q = 0.1 refere-se à probabilidade do atacante encontrar o próximo bloco da cadeia de blocos (blockchain).
+- Esse número, 0.1 (ou 10%), significa que o atacante tem uma chance de 10% de sucesso a cada tentativa de encontrar um bloco antes da rede honesta.
   
 ## Ao analisarmos alguns resultados, podemos observar que a probabilidade diminui exponencialmente com o aumento de z.
 
